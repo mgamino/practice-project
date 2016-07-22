@@ -1,4 +1,4 @@
-# practice-project
+# Juan Thu Thregan
 Practice project for cssi
 
 Thu Nguyen - June 15, 1998
