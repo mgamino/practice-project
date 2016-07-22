@@ -1,5 +1,4 @@
-# cornfields
-Practice project for cssi
+# Juan Thu Thregan
 
 Thu Nguyen - June 15, 1998
 
